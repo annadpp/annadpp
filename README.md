@@ -1,5 +1,5 @@
 <div id="header" align="center">
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDYzdHppNG1mZzk5d2pqdXYyb2gxZG1tejBwNDEzZDRlaWhhbHc2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iy88cWKqBeBN92o/giphy.gif" width="250"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/annadepablopuig">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
